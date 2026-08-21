@@ -66,6 +66,7 @@ analysis, workflow automation, and software development.
                                                   reducing manual
                                                   regression effort by an
                                                   estimated **40--50%**
+                                                  
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
