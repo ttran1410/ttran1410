@@ -1,6 +1,6 @@
 # Hi, I'm Tuan (Leo) Tran 👋
 
-**15+ years in Quality Engineering --- from building QA functions from
+**15+ years in Quality Engineering - from building QA functions from
 zero to shipping production software with AI-assisted engineering.**
 
 I help engineering teams make quality part of the development process,
@@ -31,10 +31,10 @@ analysis, workflow automation, and software development.
                           Engineering Lead        introduced Playwright
                                                   and CI/CD automation;
                                                   **+45--55% automated
-                                                  coverage**, **−50--60%
+                                                  coverage**, **−50 - 60%
                                                   regression execution
                                                   time**, and contributed
-                                                  to **30--40% fewer
+                                                  to **30 - 40% fewer
                                                   escaped defects**
 
   **TrailerCentral**      Senior Software Quality Led product quality,
@@ -48,8 +48,8 @@ analysis, workflow automation, and software development.
                           Lead                    office; built API
                                                   automation with
                                                   Java/Cucumber/REST
-                                                  Assured; **+40--50% API
-                                                  coverage**, **−35--45%
+                                                  Assured; **+40 - 50% API
+                                                  coverage**, **−35 - 45%
                                                   regression time**, and
                                                   helped grow the QA
                                                   chapter
@@ -65,7 +65,7 @@ analysis, workflow automation, and software development.
                                                   cybersecurity software,
                                                   reducing manual
                                                   regression effort by an
-                                                  estimated **40--50%**
+                                                  estimated **40 - 50%**
                                                   
   -----------------------------------------------------------------------
 
