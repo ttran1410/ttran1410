@@ -30,7 +30,7 @@ analysis, workflow automation, and software development.
   **Transax Software**    Senior Quality          Built and led QE;
                           Engineering Lead        introduced Playwright
                                                   and CI/CD automation;
-                                                  **+45--55% automated
+                                                  **+45 - 55% automated
                                                   coverage**, **−50 - 60%
                                                   regression execution
                                                   time**, and contributed
